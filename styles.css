@@ -1,0 +1,74 @@
+
+body {
+  background-color: white;
+}
+#main {
+  background-color: #EEE;
+  margin: 40px;
+  border-radius: 7px;
+}
+#title {
+  padding: 40px;
+  font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+h1 {
+  color: #333;
+  text-align: center;
+  font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+h3 {
+  text-align: center;  
+  font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  color: #333;
+  padding-bottom: 40px;
+}
+#tribute-info h3 {
+  padding-bottom: 0px;
+}
+p {
+  text-align: center;
+}
+#img-div {
+  background-color: white;
+  margin-right: 20px;
+  margin-left: 20px;
+  padding-top: 20px;
+  width: 100%;
+}
+#tribute-info {
+  font-family: 'Roboto', Helvetica;
+  color: #333;
+}
+#tribute-info h3 {
+  padding-top: 40px;
+}
+#tribute-info ul li {
+  margin: 0 270px 0 270px;
+  line-height: 1.6;
+}
+li {
+  padding-bottom: 16px;
+}
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  max-width: 1000px;
+}
+#quote {
+  font-style: italic;
+  font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  color: #333;
+  line-height: 1.6;
+}
+#img-caption {
+  padding-bottom: 20px;
+  font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  color: #333
+}
+#quote p{
+  margin: 0 300px 0 270px;
+  text-align: left;
+  padding: 30px;
+}
